@@ -9,6 +9,10 @@
         "Standard_A2",
         "Standard_A3",
         "Standard_A4",
+        "Standard_B1s",
+        "Standard_B1ms",
+        "Standard_B2s",
+        "Standard_B2ms",
         "Standard_D1",
         "Standard_D2",
         "Standard_D3",
@@ -17,7 +21,7 @@
       "metadata": {
         "description": "Size of vm, e.g: Standard_D2"
       },
-      "defaultValue": "Standard_D2"
+      "defaultValue": "Standard_B1s"
     },
     "username": {
       "type": "string",
